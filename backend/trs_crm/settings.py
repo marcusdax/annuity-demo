@@ -1,0 +1,1 @@
+# Minimal Django settings placeholder

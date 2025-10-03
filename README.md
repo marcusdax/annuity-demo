@@ -1,0 +1,2 @@
+# annuity-demo
+# Annuity Strategy Demo  A live demo for visualizing **Cash Value vs Income Base annuities** with roll-ups, bonuses, riders, and long-term payout comparisons.  ## 🚀 Quick Start  ```bash # Clone repo git clone https://github.com/YOUR_USERNAME/annuity-demo.git cd annuity-demo  # Start backend cd backend pip install -r requirements.txt python manage.py migrate python manage.py runserver  # Start frontend cd ../frontend npm install npm run dev
